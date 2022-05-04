@@ -1,5 +1,9 @@
 # Desafio de Projeto Sobre Git/Github da DIO
 Repositório criado para o Desafio de Projeto.
 
-## Links Úteis
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+## Links úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
