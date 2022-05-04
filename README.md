@@ -7,3 +7,7 @@ Javascript, HTML, CSS...
 ## Links úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
