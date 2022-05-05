@@ -4,7 +4,7 @@ Repositório criado para o Desafio de Projeto.
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
-## Links úteis
+## Useful links
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Feedback
